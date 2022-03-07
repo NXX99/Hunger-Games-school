@@ -18,7 +18,7 @@ var melee =
 "stick",
 "potato",
 "shoe",
-"Perry's corpse",
+"piece of Perry's corpse",
 "69",
 "diamond sword",
 "dual swords",
