@@ -51,7 +51,7 @@ var itemsToFind =
 "biology textbook",
 "bucket of KFC",
 "tin of Donald Trump's bronzer",
-"Emoji Movie on DVD",
+"copy of Emoji Movie on DVD",
 "anthology of life-changing poems",
 "quenched and tempered steel",
 "VIP ticket to Tana Mojo concert",
@@ -99,7 +99,7 @@ var causeAndEffect =
 "used Band-Aid",
 "random bandaid",
 "Game Console",
-"Playing a multiplayer game",
+"Plays an online game",
 "tent",
 "constructs a tent",
 "biology textbook",
@@ -108,7 +108,7 @@ var causeAndEffect =
 "eats KFC",
 "tin of Donald Trump's bronzer",
 "becomes as orange as Donald Trump and dies of chemical poisoning",
-"Emoji Movie on DVD",
+"copy of Emoji Movie on DVD",
 "dies of pure cancer after watching the Emoji Movie",
 "anthology of life-changing poems",
 "\'s life gets changed by poetry",
@@ -179,7 +179,8 @@ var shelter =
 "couch",
 "sleeping bag",
 "queen-sized bed with a memory foam mattress and furnished headrest",
-"brothel"];
+"brothel"
+"trash can"];
 
 var cornucopia =
 ["run",
@@ -198,7 +199,7 @@ var sponsor =
 "biology textbook",
 "bucket of KFC",
 "tin of Donald Trump's bronzer",
-"Emoji Movie on DVD",
+"copy of Emoji Movie on DVD",
 "anthology of life-changing poems",
 "quenched and tempered steel",
 "VIP ticket to Tana Mojo concert",
