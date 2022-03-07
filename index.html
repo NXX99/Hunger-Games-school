@@ -808,10 +808,10 @@
 						fates.push(allNames[r] + " said racial slurs on a Twitch livestream and got roasted to death.")
 					}
 					else if (a === "unsafe dating"){
-						var lol = playerItems[r].indexOf("pack of condoms");
-						var lol2 = playerItems[q].indexOf("pack of condoms");
+						var lol = playerItems[r].indexOf("Game Console");
+						var lol2 = playerItems[q].indexOf("Game Console");
 						if (lol != -1 || lol2 != -1){
-							fates.push(allNames[r] + " and " + allNames[q] + " practice safe dating.");
+							fates.push(allNames[r] + " and " + allNames[q] + " Play a multiplayer game");
 							if (lol != -1){
 								for (var i=lol; i<playerItems[r].length-1; i++){
 									playerItems[r][i] = playerItems[r][i+1];
